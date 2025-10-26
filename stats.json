@@ -1,0 +1,18 @@
+{
+  "last_updated": "2025-10-26T23:40:33.476352",
+  "total_footage_hours": 150.5,
+  "total_released_hours": 25.0,
+  "total_files": 45,
+  "projects": [
+    {
+      "id": 1,
+      "title": "Тестовый проект",
+      "type": "documentary",
+      "status": "filming",
+      "footage_hours": 45.2,
+      "released_hours": 10.5,
+      "year": 2024
+    }
+  ],
+  "script_version": "1.0.0"
+}
