@@ -1,18 +1,29 @@
 {
-  "last_updated": "2025-10-26T23:40:33.476352",
-  "total_footage_hours": 150.5,
-  "total_released_hours": 25.0,
-  "total_files": 45,
-  "projects": [
+  "last_updated": "2025-10-27T09:45:52.120539",
+  "total_footage_hours": 0,
+  "total_released_minutes": 0,
+  "total_coffee_cups": 0,
+  "public_projects": [
     {
-      "id": 1,
-      "title": "Тестовый проект",
+      "title": "Неизвестная Россия",
       "type": "documentary",
       "status": "filming",
-      "footage_hours": 45.2,
-      "released_hours": 10.5,
-      "year": 2024
+      "category": "personal",
+      "footage_hours": 0,
+      "final_runtime_minutes": 0,
+      "coffee_cups": 0,
+      "production_days": 0
+    },
+    {
+      "title": "Тестовый проект",
+      "type": "documentary",
+      "status": "editing",
+      "category": "personal",
+      "footage_hours": 0,
+      "final_runtime_minutes": 0,
+      "coffee_cups": 0,
+      "production_days": 0
     }
   ],
-  "script_version": "1.0.0"
+  "nda_projects": null
 }
